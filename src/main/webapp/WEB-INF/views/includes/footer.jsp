@@ -8,7 +8,6 @@
 
     <!-- jQuery 주석처리 -->
 <!--     <script src="/resources/vendor/jquery/jquery.min.js"></script> -->
-<script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
     <!-- Bootstrap Core JavaScript -->
     <script src="/resources/vendor/bootstrap/js/bootstrap.min.js"></script>
 
